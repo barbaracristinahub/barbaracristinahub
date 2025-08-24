@@ -13,7 +13,7 @@ Sou apaixonada por tecnologia e estou começando minha jornada como desenvolvedo
 Acredito que a tecnologia pode transformar vidas e abrir portas para um mundo mais acessível, inclusivo e colaborativo 🌍💡  
 
 Adoro aprender, explorar novas ferramentas e transformar ideias em soluções.  
-Atualmente estou estudando **Desenvolvimento Web**, linguagens de programação e versionamento com **Git**.
+Atualmente estou estudando **Desenvolvimento Web**, linguagens de programação .
 
 ---
 
